@@ -12,7 +12,7 @@ Aplikasi berbasis Desktop (GUI) menggunakan Python yang dirancang untuk mengelol
 
 ---
 
-# 🛠️ Implementasi Struktur Data & Algoritma
+# Implementasi Struktur Data & Algoritma
 Proyek ini mengimplementasikan beberapa konsep dasar Algoritma dan Struktur Data Dasar:
 * Linked List: Digunakan untuk menyimpan daftar utama film.
 * Stack: Digunakan untuk mencatat riwayat tontonan (history).
