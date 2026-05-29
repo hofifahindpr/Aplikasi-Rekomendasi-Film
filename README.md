@@ -17,14 +17,13 @@ Proyek ini mengimplementasikan beberapa konsep dasar Algoritma dan Struktur Data
 * Linked List: Digunakan untuk menyimpan daftar utama film.
 * Stack: Digunakan untuk mencatat riwayat tontonan (history).
 * Queue: Digunakan untuk antrean daftar tontonan (watchlist).
-* Graph: Digunakan untuk memetakan hubungan/relasi antar-film berdasarkan kesamaan genre.
 * Algoritma Searching & Sorting: Menggunakan metode pencarian dan pengurutan efisien untuk menampilkan data film.
 
 ---
 
 # Pembagian Tugas
 * ERNI MAYASARI - 2517052003
-  * Tanggung Jawab: Struktur Data & Backend (`linked_list.py`, `stack.py`, `queue.py`, `graph.py`, `film_manager.py`)
+  * Tanggung Jawab: Struktur Data & Backend (`linked_list.py`, `stack.py`, `queue.py`, `film_manager.py`)
 * HOFIFAH INDAR PARAWANSA - 2517052018
   * Tanggung Jawab: Algoritma & Rekomendasi (`sorting.py`, `searching.py`, `recommender.py`, GitHub Management)
 * BUNGA PERMATA SARI - 2517052031
