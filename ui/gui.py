@@ -124,7 +124,7 @@ class CineRecApp(tk.Tk):
         shadow = tk.Frame(parent, bg="#F4A7B9")
         shadow.pack(side="left", fill="y", padx=(0, 10), pady=3)
 
-        # Inner frame (offset sedikit untuk efek shadow)
+        
         frame = tk.LabelFrame(shadow, text=f"  {title}  ",
                                font=("Helvetica", 10, "bold"),
                                fg=FG_TITLE, bg=BG_PANEL,
@@ -174,7 +174,7 @@ class CineRecApp(tk.Tk):
             b.pack(fill="x", padx=12, pady=(7, 0), ipady=7)
 
     def _build_middle(self, parent):
-        # Shadow frame tengah (expand)
+        
         shadow = tk.Frame(parent, bg="#F4A7B9")
         shadow.pack(side="left", fill="both", expand=True,
                     padx=(0, 10), pady=3)
@@ -302,7 +302,7 @@ class CineRecApp(tk.Tk):
 
         if not data:
             tk.Label(self.card_frame,
-                     text="Tidak ada film ditemukan. 🌸",
+                     text="Tidak ada film ditemukan. 🎬🚫",
                      font=("Helvetica", 11, "italic"),
                      fg=FG_MUTED, bg=BG_MAIN).pack(pady=20)
             return
@@ -334,7 +334,7 @@ class CineRecApp(tk.Tk):
             badge_bg, badge_fg = genre_colors.get(
                 film["genre"], ("#FCE4EC", "#E91E63"))
 
-            # Top strip warna
+            
             tk.Frame(card, bg=badge_fg, height=4).pack(fill="x")
 
             tk.Label(card, text=film["judul"],
@@ -365,7 +365,7 @@ class CineRecApp(tk.Tk):
         if film not in self.histori:
             self.histori.append(film)
         self.status_label.config(
-            text=f"🌸 Dipilih: {film['judul']}", fg=ACCENT)
+            text=f"🎬 Dipilih: {film['judul']}", fg=ACCENT)
 
     # CRUD
     def _tambah(self):
@@ -505,7 +505,7 @@ class CineRecApp(tk.Tk):
     def _acak_film(self):
         acak = random.sample(self.films, min(6, len(self.films)))
         self._refresh_cards(acak)
-        self.status_label.config(text="🎲 Film acak untukmu! 🌸", fg="#CE93D8")
+        self.status_label.config(text="🎲 Film acak untukmu! 🎬", fg="#CE93D8")
 
     
     def _on_frame_configure(self, event):
