@@ -1,0 +1,292 @@
+{
+    "films": [
+        {
+            "id": "F001",
+            "judul": "Inception",
+            "genre": "Sci-Fi, Thriller",
+            "tahun": 2010,
+            "rating": 8.8,
+            "sutradara": "Christopher Nolan",
+            "deskripsi": "Seorang pencuri yang masuk ke alam mimpi untuk menanamkan ide ke dalam pikiran seseorang"
+        },
+        {
+            "id": "F002",
+            "judul": "The Dark Knight",
+            "genre": "Action, Crime, Drama",
+            "tahun": 2008,
+            "rating": 9.0,
+            "sutradara": "Christopher Nolan",
+            "deskripsi": "Batman menghadapi musuh paling berbahaya, Joker, yang ingin menghancurkan Gotham City"
+        },
+        {
+            "id": "F003",
+            "judul": "Interstellar",
+            "genre": "Sci-Fi, Drama, Adventure",
+            "tahun": 2014,
+            "rating": 8.6,
+            "sutradara": "Christopher Nolan",
+            "deskripsi": "Sekelompok astronot melakukan perjalanan melalui lubang cacing untuk menyelamatkan umat manusia"
+        },
+        {
+            "id": "F004",
+            "judul": "The Shawshank Redemption",
+            "genre": "Drama, Crime",
+            "tahun": 1994,
+            "rating": 9.3,
+            "sutradara": "Frank Darabont",
+            "deskripsi": "Seorang bankir dihukum penjara seumur hidup dan membangun persahabatan dengan sesama tahanan"
+        },
+        {
+            "id": "F005",
+            "judul": "Avengers: Endgame",
+            "genre": "Action, Sci-Fi, Adventure",
+            "tahun": 2019,
+            "rating": 8.4,
+            "sutradara": "Anthony Russo, Joe Russo",
+            "deskripsi": "Para Avengers berkumpul kembali untuk membalikkan kerusakan yang dilakukan Thanos"
+        },
+        {
+            "id": "F006",
+            "judul": "Parasite",
+            "genre": "Drama, Thriller, Comedy",
+            "tahun": 2019,
+            "rating": 8.5,
+            "sutradara": "Bong Joon-ho",
+            "deskripsi": "Keluarga miskin merencanakan cara untuk menyusup ke kehidupan keluarga kaya"
+        },
+        {
+            "id": "F007",
+            "judul": "Spirited Away",
+            "genre": "Animation, Fantasy, Adventure",
+            "tahun": 2001,
+            "rating": 8.6,
+            "sutradara": "Hayao Miyazaki",
+            "deskripsi": "Seorang gadis kecil terjebak di dunia roh dan harus bekerja untuk menyelamatkan orang tuanya"
+        },
+        {
+            "id": "F008",
+            "judul": "The Godfather",
+            "genre": "Crime, Drama",
+            "tahun": 1972,
+            "rating": 9.2,
+            "sutradara": "Francis Ford Coppola",
+            "deskripsi": "Kisah dinasti kejahatan keluarga Corleone dan penerus kekuasaan sang Don"
+        },
+        {
+            "id": "F009",
+            "judul": "Pulp Fiction",
+            "genre": "Crime, Drama, Thriller",
+            "tahun": 1994,
+            "rating": 8.9,
+            "sutradara": "Quentin Tarantino",
+            "deskripsi": "Kisah kriminal Los Angeles yang saling terhubung dengan cara tidak linier"
+        },
+        {
+            "id": "F010",
+            "judul": "Forrest Gump",
+            "genre": "Drama, Romance, Comedy",
+            "tahun": 1994,
+            "rating": 8.8,
+            "sutradara": "Robert Zemeckis",
+            "deskripsi": "Kisah hidup pria sederhana dari Alabama yang tanpa sadar terlibat dalam peristiwa sejarah besar Amerika"
+        },
+        {
+            "id": "F011",
+            "judul": "The Matrix",
+            "genre": "Sci-Fi, Action, Thriller",
+            "tahun": 1999,
+            "rating": 8.7,
+            "sutradara": "Lana Wachowski, Lilly Wachowski",
+            "deskripsi": "Seorang hacker menemukan bahwa dunia yang ia tinggali hanyalah simulasi komputer"
+        },
+        {
+            "id": "F012",
+            "judul": "Schindler's List",
+            "genre": "Drama, History, War",
+            "tahun": 1993,
+            "rating": 8.9,
+            "sutradara": "Steven Spielberg",
+            "deskripsi": "Kisah nyata seorang pengusaha Jerman yang menyelamatkan lebih dari seribu orang Yahudi saat Holocaust"
+        },
+        {
+            "id": "F013",
+            "judul": "Joker",
+            "genre": "Drama, Crime, Thriller",
+            "tahun": 2019,
+            "rating": 8.4,
+            "sutradara": "Todd Phillips",
+            "deskripsi": "Asal-usul Arthur Fleck yang berubah menjadi penjahat ikonik Joker akibat tekanan masyarakat"
+        },
+        {
+            "id": "F014",
+            "judul": "Whiplash",
+            "genre": "Drama, Music",
+            "tahun": 2014,
+            "rating": 8.5,
+            "sutradara": "Damien Chazelle",
+            "deskripsi": "Seorang drummer muda berjuang untuk menjadi yang terbaik di bawah instruktur musik yang sangat keras"
+        },
+        {
+            "id": "F015",
+            "judul": "La La Land",
+            "genre": "Drama, Romance, Musical",
+            "tahun": 2016,
+            "rating": 8.0,
+            "sutradara": "Damien Chazelle",
+            "deskripsi": "Kisah cinta antara seorang aktris dan musisi jazz yang mengejar impian mereka di Los Angeles"
+        },
+        {
+            "id": "F016",
+            "judul": "Get Out",
+            "genre": "Horror, Thriller, Mystery",
+            "tahun": 2017,
+            "rating": 7.7,
+            "sutradara": "Jordan Peele",
+            "deskripsi": "Seorang pria kulit hitam mengunjungi keluarga kekasihnya dan menemukan rahasia gelap yang mengancam"
+        },
+        {
+            "id": "F017",
+            "judul": "Dune",
+            "genre": "Sci-Fi, Adventure, Drama",
+            "tahun": 2021,
+            "rating": 8.0,
+            "sutradara": "Denis Villeneuve",
+            "deskripsi": "Seorang pemuda berbakat melakukan perjalanan ke planet paling berbahaya di alam semesta"
+        },
+        {
+            "id": "F018",
+            "judul": "Everything Everywhere All at Once",
+            "genre": "Sci-Fi, Comedy, Drama",
+            "tahun": 2022,
+            "rating": 7.8,
+            "sutradara": "Daniel Kwan, Daniel Scheinert",
+            "deskripsi": "Seorang ibu rumah tangga harus menjelajahi multisemesta untuk menyelamatkan dunia"
+        },
+        {
+            "id": "F019",
+            "judul": "Oppenheimer",
+            "genre": "Drama, History, Thriller",
+            "tahun": 2023,
+            "rating": 8.3,
+            "sutradara": "Christopher Nolan",
+            "deskripsi": "Kisah J. Robert Oppenheimer dan perannya dalam pengembangan bom atom pertama di dunia"
+        },
+        {
+            "id": "F020",
+            "judul": "Spider-Man: Into the Spider-Verse",
+            "genre": "Animation, Action, Adventure",
+            "tahun": 2018,
+            "rating": 8.4,
+            "sutradara": "Bob Persichetti, Peter Ramsey",
+            "deskripsi": "Miles Morales menjadi Spider-Man dan bertemu versi Spider-Man dari dimensi lain"
+        },
+        {
+            "id": "F021",
+            "judul": "Your Name",
+            "genre": "Animation, Romance, Fantasy",
+            "tahun": 2016,
+            "rating": 8.4,
+            "sutradara": "Makoto Shinkai",
+            "deskripsi": "Dua remaja yang tubuhnya bertukar secara misterius berusaha menemukan satu sama lain"
+        },
+        {
+            "id": "F022",
+            "judul": "Coco",
+            "genre": "Animation, Adventure, Family",
+            "tahun": 2017,
+            "rating": 8.4,
+            "sutradara": "Lee Unkrich",
+            "deskripsi": "Seorang anak laki-laki terjebak di tanah orang mati dan bertemu leluhurnya untuk mengejar mimpi musik"
+        },
+        {
+            "id": "F023",
+            "judul": "Knives Out",
+            "genre": "Mystery, Comedy, Crime",
+            "tahun": 2019,
+            "rating": 7.9,
+            "sutradara": "Rian Johnson",
+            "deskripsi": "Detektif genius menyelidiki kematian misterius seorang penulis novel terkenal"
+        },
+        {
+            "id": "F024",
+            "judul": "1917",
+            "genre": "War, Drama, Action",
+            "tahun": 2019,
+            "rating": 8.3,
+            "sutradara": "Sam Mendes",
+            "deskripsi": "Dua tentara muda diberi misi mustahil untuk mengirimkan pesan guna menyelamatkan ribuan nyawa"
+        },
+        {
+            "id": "F025",
+            "judul": "Hereditary",
+            "genre": "Horror, Drama, Mystery",
+            "tahun": 2018,
+            "rating": 7.3,
+            "sutradara": "Ari Aster",
+            "deskripsi": "Sebuah keluarga mulai mengalami teror setelah kematian nenek mereka yang menyimpan rahasia gelap"
+        },
+        {
+            "id": "F026",
+            "judul": "Tenet",
+            "genre": "Action, Sci-Fi, Thriller",
+            "tahun": 2020,
+            "rating": 7.3,
+            "sutradara": "Christopher Nolan",
+            "deskripsi": "Seorang agen menggunakan teknologi pembalikan waktu untuk mencegah perang dunia ketiga"
+        },
+        {
+            "id": "F027",
+            "judul": "Mad Max: Fury Road",
+            "genre": "Action, Adventure, Sci-Fi",
+            "tahun": 2015,
+            "rating": 8.1,
+            "sutradara": "George Miller",
+            "deskripsi": "Di dunia pasca-apokalipse, seorang prajurit membantu sekelompok wanita melarikan diri dari penguasa tiran"
+        },
+        {
+            "id": "F028",
+            "judul": "The Grand Budapest Hotel",
+            "genre": "Comedy, Drama, Adventure",
+            "tahun": 2014,
+            "rating": 8.1,
+            "sutradara": "Wes Anderson",
+            "deskripsi": "Kisah pelayan hotel legendaris di Eropa yang terseret dalam pencurian lukisan dan intrik pembunuhan"
+        },
+        {
+            "id": "F029",
+            "judul": "Arrival",
+            "genre": "Sci-Fi, Drama, Mystery",
+            "tahun": 2016,
+            "rating": 7.9,
+            "sutradara": "Denis Villeneuve",
+            "deskripsi": "Seorang ahli bahasa direkrut untuk berkomunikasi dengan alien yang mendarat di Bumi"
+        },
+        {
+            "id": "F030",
+            "judul": "Blade Runner 2049",
+            "genre": "Sci-Fi, Drama, Mystery",
+            "tahun": 2017,
+            "rating": 8.0,
+            "sutradara": "Denis Villeneuve",
+            "deskripsi": "Seorang blade runner muda menemukan rahasia yang bisa mengubah sisa-sisa peradaban"
+        },
+        {
+            "id": "F031",
+            "judul": "The Silence of the Lambs",
+            "genre": "Crime, Drama, Thriller",
+            "tahun": 1991,
+            "rating": 8.6,
+            "sutradara": "Jonathan Demme",
+            "deskripsi": "Agen FBI muda meminta bantuan psikiater kanibal untuk menangkap pembunuh berantai"
+        },
+        {
+            "id": "F032",
+            "judul": "Gladiator",
+            "genre": "Action, Drama, Adventure",
+            "tahun": 2000,
+            "rating": 8.5,
+            "sutradara": "Ridley Scott",
+            "deskripsi": "Jenderal Romawi yang dikhianati dijual sebagai budak dan berjuang sebagai gladiator untuk membalas dendam"
+        }
+    ]
+}
