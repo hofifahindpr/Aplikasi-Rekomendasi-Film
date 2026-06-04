@@ -10,7 +10,7 @@ class FilmManager:
     def __init__ (self):
         self.films = LinkedList()
         self.riwayat = Stack()
-        self.whatchlist = Queue()
+        self.watchlist = Queue()
         self.data_path = os.path.join(os.path.dirname(__file__), '..', 'data', 'films.json')
         self.load_data()
     
